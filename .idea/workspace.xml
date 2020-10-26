@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac2c95c2-08d1-430f-a475-fbfa2f553aac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leaflet-fractal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jQQgI8HTDmIkBY1gtT773B6U5T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac2c95c2-08d1-430f-a475-fbfa2f553aac" name="Default Changelist" comment="" />
+      <created>1603733945654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603733945654</updated>
+      <workItem from="1603733946831" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="164" key="CommitChangelistDialog2" timestamp="1603734236836">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="582" y="164" key="CommitChangelistDialog2/0.23.1920.990/-1680.479.1680.1027@0.23.1920.990" timestamp="1603734236836" />
+    <state x="842" y="394" width="657" height="389" key="Github.ShareDialog" timestamp="1603734079606">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="842" y="394" width="657" height="389" key="Github.ShareDialog/0.23.1920.990/-1680.479.1680.1027@0.23.1920.990" timestamp="1603734079606" />
+    <state x="796" y="391" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603734159608">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="796" y="391" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1920.990/-1680.479.1680.1027@0.23.1920.990" timestamp="1603734159608" />
+  </component>
+</project>
